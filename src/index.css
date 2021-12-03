@@ -64,7 +64,7 @@ ul {
 
 .normalText ul {
   font-family: Georgia, serif;
-  font-size: .75em;
+  font-size: 5.75em;
   text-align: left;
 }
 
@@ -149,4 +149,8 @@ ul {
   to {
     transform: rotate(360deg);
   }
+}
+
+.buttonMargin {
+  margin: 20pt;
 }
